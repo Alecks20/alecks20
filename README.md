@@ -1,17 +1,17 @@
-## Welcome to my Github! 👋
-Below you can see all of my skills and experience, I have been programming for about a year now
+## Welcome to my GitHub 👋
+- Im a self-taught 14 year old developer/programmer from Australia.
+- Im experienced in programming, linux server manegement and a little bit of networking
+- I understand computers easily when I get to play around with them
 
-## What I know
-Things im confident in using to develop things
+## Skills/Experience 🌍
 
-[![A](https://skillicons.dev/icons?i=linux,docker,github,git,nginx,cloudflare,markdown,python,mongo,html,css,discord,vscode)](https://skillicons.dev)
+Stuff im confident using to develop and build apps/programs
 
-Stuff I have tried/deployed but im not experienced nor skilled in
+[![A](https://skillicons.dev/icons?i=linux,docker,github,git,nginx,cloudflare,markdown,python,mongo,discord,vscode)](https://skillicons.dev)
 
-[![A](https://skillicons.dev/icons?i=gcp,aws,gitlab,grafana,kali,photoshop,notion,jenkins,redis,postgresql,bash)](https://skillicons.dev)
+What im learning right now
 
-## Stuff I plan to learn
-[![A](https://skillicons.dev/icons?i=kubernetes,nodejs,java,mysql,django,fastapi,workers)](https://skillicons.dev)
+[![A](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
 <!--
