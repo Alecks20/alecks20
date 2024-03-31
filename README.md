@@ -2,6 +2,8 @@
 Below you can see all of my skills and experience, I have been programming for about a year now
 
 ## What I know
+Things im confident in using/building
+
 [![A](https://skillicons.dev/icons?i=linux,docker,github,git,nginx,cloudflare,markdown,python,mongo,html,css,discord,vscode)](https://skillicons.dev)
 
 Stuff I have tried/deployed but im not experienced nor skilled in
