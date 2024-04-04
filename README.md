@@ -5,7 +5,7 @@ Im a self-taught 14 year old developer/programmer from Australia with a deep int
 
 Stuff im confident using to develop and build apps/programs
 
-[![A](https://skillicons.dev/icons?i=linux,docker,github,nginx,cloudflare,markdown,python,mongo)](https://skillicons.dev)
+[![A](https://skillicons.dev/icons?i=linux,docker,github,nginx,cloudflare,markdown,python,mongo,html,css)](https://skillicons.dev)
 
 <!--
 **Atomic2ds/atomic2ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
