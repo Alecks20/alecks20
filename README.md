@@ -1,5 +1,5 @@
-# Hello internet user! 👋
-Im a self-taught teenage developer/programmer located in Oceania with a passion for computers and the internet. My end goal is to eventually make an app/program that will change the internet for the better, if not I just want to live a comfortable life.
+# Hello there! 👋
+Im a self-taught teenage developer/programmer located in Oceania with a passion for computers and the internet. My stengths are definitely in server management, infrastructure and stuff like the cloud.
 
 ## Skills/Experience 🌍
 
