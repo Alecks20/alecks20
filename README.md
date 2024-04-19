@@ -1,5 +1,5 @@
 # Hello there! 👋
-Im a self-taught teenage developer/programmer located in Oceania with a passion for computers and the internet. My stengths are definitely in server management, infrastructure and stuff like the cloud.
+Im a self-taught teenage developer/programmer located in Asia Pacific with a passion for computers and the internet. My stengths are definitely in server management, infrastructure and stuff like the cloud.
 
 ## Skills/Experience 🌍
 
