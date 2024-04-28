@@ -1,5 +1,5 @@
 # Hello there! 👋
-Im a self-taught teenage developer/programmer located in Australia with a passion for computers and the internet. I specialize in server management, linux, networking and programming.
+Im a self-taught developer/programmer located in Australia with a passion for computers and the internet. I specialize in server management, linux, networking and programming.
 
 ## Skills/Experience 🌍
 
