@@ -1,10 +1,5 @@
-# Hello there! 👋
-Im a self-taught developer/programmer located in Australia with a passion for computers and the internet. I specialize in server management, linux, networking and programming.
 
 ## Skills/Experience 🌍
-
-Stuff im comfortable using to develop and build apps/programs
-
 [![A](https://skillicons.dev/icons?i=linux,docker,github,nginx,cloudflare,markdown,python,mongo,html,css)](https://skillicons.dev)
 
 <!--
